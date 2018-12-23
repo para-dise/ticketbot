@@ -12,3 +12,5 @@ $ticket - show help
 $ticket new - make a ticket
 $ticket close - close a ticket
 ```
+
+Ignore the arrays etc in console.
